@@ -50,7 +50,7 @@ Go to `http://localhost:3000` to view the app.
 
 ## Authors
 
-- **Anvit D** - [geekysrm](https://github.com/Anvit3)
+- **Anvit D** - [Anvit3](https://github.com/Anvit3)
 
 ## License
 
