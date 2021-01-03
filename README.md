@@ -29,8 +29,8 @@ _Node.JS and npm must be installed. Download and install them from [here](https:
 Follow these steps to run this project in your local computer.
 
 ```
-$ https://github.com/geekysrm/news-reader-react.git
-$ cd news-reader-react
+$ git clone https://github.com/Anvit3/react-news-reader/
+$ cd react-news-reader
 $ npm i
 ```
 
@@ -50,7 +50,7 @@ Go to `http://localhost:3000` to view the app.
 
 ## Authors
 
-- **Soumya Ranjan Mohanty** - [geekysrm](https://github.com/geekysrm)
+- **Anvit D** - [geekysrm](https://github.com/Anvit3)
 
 ## License
 
